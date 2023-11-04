@@ -10,6 +10,8 @@ git global config --user.name"VamsiK-11"
 
 git global config --user.email"vamsikana1@gmail.com"
 
+git remote add origin https://github.com/VamsiK-11/Assignment1.git
+
 notepad sample.txt    #I added a text saying "Hey This is Vamsi from 5CDV-1" in master branch
 
 git add .
